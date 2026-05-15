@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Thanh Phan or you can call me Daisy ✌🏻👩🏻‍💻🌼
 
 <!--
 **tphan1-23/tphan1-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
