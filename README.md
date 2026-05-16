@@ -14,7 +14,7 @@ I'm a first-generation college student based in Little Rock, AR, currently pursu
 
 🎐 **I really like** meeting new people, I believe that I learn something from everyone I met, so I'm always open to collaborate on beginner-friendly open-source projects or fun development ideas! :)  
 
-🎐 **Here is my email** if you have fun idea: [nthanhphan1@gmail.com](mailto:nthanhphan1@gmail.com) **or connect me** on [LinkedIn](https://www.linkedin.com/in/thanh-phan-245941349).
+🎐 **Here is my email** if you have fun idea: [nthanhphan1@gmail.com](mailto:nthanhphan1@gmail.com) **or connect with me** on [LinkedIn](https://www.linkedin.com/in/thanh-phan-245941349).
 
 ---
 
