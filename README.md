@@ -28,7 +28,7 @@ I'm a first-generation college student based in Little Rock, AR, currently pursu
 ![HTML5](https://img.shields.io/badge/HTML5-F4C2C2?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/🎨_CSS3-FF99B0?style=for-the-badge)   
 
-**Tools & Environment -** Github, VS Code, & IntelliJ
+**Tools & Environment -** Pandas, NumPy, PyTorch, TensorFlow, Matplotlib/Seaborn concepts, Oracle, Git/GitHub, Microsoft Office® Suite, Google Workspace, Zapier, Airtable, Git, GitHub, Visual Studio Code, Kaggle, BigQuery, Tableau, Jupyter Notebook, IntelliJ, Android Studio
 
 ---
 
