@@ -1,6 +1,6 @@
 # Hello~ I'm Thanh Phan (Daisy) ✌🏻👩🏻‍💻🌼
 
-### Aspiring Software Engineer | Computer Science Student
+### Aspiring Data Analysist | Computer Science Student
 
 I'm a first-generation college student based in Little Rock, AR, currently pursuing my degree in Computer Science. I'm passionate about building accessible, inclusive digital products and constantly expanding my technical toolkit. 
 
@@ -8,9 +8,9 @@ I'm a first-generation college student based in Little Rock, AR, currently pursu
 
 ## About Me 🙈
 
-🎐 **Fun fact:** When I'm not coding, I like to read books or manga, go for a walk or a little jog, spend good time with my close ones, and I love escape rooms.  
+🎐 **Fun fact:** When I'm not coding, I like to enjoy good meals, go for a walk or a little jog, spend good time with my close ones, and I love escape rooms.  
 
-🎐 **I'm currently working** on expanding portfolio, advanced my Computer Science concepts and refining my skills in web development, AI algorithms, etc.  
+🎐 **I'm currently working** on expanding portfolio, advanced my Computer Science concepts and refining my skills in Data Analysist.
 
 🎐 **I really like** meeting new people, I believe that I learn something from everyone I met, so I'm always open to collaborate on beginner-friendly open-source projects or fun development ideas! :)  
 
@@ -32,13 +32,4 @@ I'm a first-generation college student based in Little Rock, AR, currently pursu
 
 ---
 
-## Some of my Proud Projects ☝🤓
-
-👩🏻‍💼📝 **[Personal Portfolio](https://tphan1-23.github.io/My-Portfolio/)** - A fully responsive, custom-built digital resume using HTML, CSS, and Vanilla JavaScript.  
-
-👾💭 **[Tic-Tac-Toe AI](https://github.com/tphan1-23/TicTacToe-with-AI.git)** - A Python console game featuring an unbeatable AI using the Minimax Algorithm.  
-
-👩🏻‍🚀🚀 **[DQN Lunar Lander (Collaborative)](https://github.com/Jay-Madame/AI-Final-Project.git)** - A collaborative reinforcement learning project where my peers and I implemented a Deep Q-Network (DQN) algorithm to train an AI agent to safely land a lunar module. We utilized Python and machine learning libraries to design the neural network, optimize the agent's reward function, and stabilize the learning process over multiple training episodes.
-
----
 ⭐️ *Thanks for stopping by my profile!* ⭐️
